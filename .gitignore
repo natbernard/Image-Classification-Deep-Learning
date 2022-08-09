@@ -1,0 +1,12 @@
+Steps:
+- Use keras
+- divide df to train and val df
+- reset index
+- Maybe go through keras modules (ImageDataGenerator), (flow_from_dataframe) (fit_generator)
+- Plot loss, accuracy for both training and validation set
+- convert image data to tensors<br>
+https://www.kaggle.com/code/aadityasinghal/holiday-season-prediction-using-inceptionresnetv2
+
+- flatten layer
+- dropout layer<br>
+https://www.kaggle.com/code/oossiiris/kfold-resnet50-keras-top-5
